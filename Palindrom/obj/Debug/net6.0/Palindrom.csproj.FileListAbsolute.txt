@@ -1,0 +1,15 @@
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\bin\Debug\net6.0\Palindrom.exe
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\bin\Debug\net6.0\Palindrom.deps.json
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\bin\Debug\net6.0\Palindrom.runtimeconfig.json
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\bin\Debug\net6.0\Palindrom.dll
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\bin\Debug\net6.0\Palindrom.pdb
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.csproj.AssemblyReference.cache
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.AssemblyInfo.cs
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.dll
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\refint\Palindrom.dll
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.pdb
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\Palindrom.genruntimeconfig.cache
+C:\Users\maksk\Desktop\GIT\Palindrom\Palindrom\obj\Debug\net6.0\ref\Palindrom.dll
